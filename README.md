@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./docs/project-banner.svg" width="100%" alt="Banner ALGORITMOS COM C">
+</div>
+
+<div align="center">
 
 # A L G O R I T M O S　//　C
 
